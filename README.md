@@ -5,38 +5,37 @@
     </a>
   <br />
 
-  <div>
+<div>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
     <img src="https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
   </div>
 
-  <h3 align="center">A Zoom Clone</h3>
+   <h3 align="center">A Zoom Clone</h3>
 
-  <div align="center">
+<div align="center">
     Follow our step-by-step tutorial to build this project on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube channel. Join the JSM family!
   </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 `<a name="table">`Table of Contents`</a>`
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Assets & Code](#snippets)
+5. 🕸️ [Assets &amp; Code](#snippets)
 6. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
-This repository includes the code for a comprehensive tutorial available on our YouTube channel, <a href="https://github.com/Deepak-technical/meetup" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository includes the code for a comprehensive tutorial available on our YouTube channel, `<a href="https://github.com/Deepak-technical/meetup" target="_blank"><b>`JavaScript Mastery`</b></a>`.
 
-## <a name="introduction">🤖 Introduction</a>
+## `<a name="introduction">`🤖 Introduction`</a>`
 
 This project, built with Next.js and TypeScript, is a replica of Zoom, a popular video conferencing tool. It allows users to log in securely, create meetings, and use various features like recording, screen sharing, and participant management.
 
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## `<a name="tech-stack">`⚙️ Tech Stack`</a>`
 
 - Next.js
 - TypeScript
@@ -45,7 +44,7 @@ This project, built with Next.js and TypeScript, is a replica of Zoom, a popular
 - shadcn
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## `<a name="features">`🔋 Features`</a>`
 
 👉 **Authentication**: Secure login via social sign-on or email/password using Clerk, with proper access levels and permissions.
 
@@ -71,7 +70,7 @@ This project, built with Next.js and TypeScript, is a replica of Zoom, a popular
 
 And many more features, including robust code architecture and reusability.
 
-## <a name="quick-start">🤸 Quick Start</a>
+## `<a name="quick-start">`🤸 Quick Start`</a>`
 
 Follow these steps to set up the project locally:
 
