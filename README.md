@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
   </div>
 
-   <h3 align="center">A Zoom Clone</h3>
+<h3 align="center">A Meet Clone</h3>
 
 <div align="center">
     Follow our step-by-step tutorial to build this project on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube channel. Join the JSM family!
